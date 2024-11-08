@@ -1,0 +1,6 @@
+- 👋 Olá, me chamo Afrodite!
+- 👀 Sou interessada em: Desenvolvimento de Software
+- 🌱 Agora estou aprendendo: os cursos da faculdade 😂😂😂
+- 📫 Como me encontrar: afrodite.oliveira10@gmail.com
+- 😄 Pronouns: ela/dela ou ele/dele
+- ⚡ Fun fact: Primeira linguagem de programação que eu aprendi foi C++.
