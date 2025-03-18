@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Afrodite!
-- 👀 Sou interessada em: Desenvolvimento de Software
+- 👀 Sou interessada em: FrontEnd
 - 🌱 Agora estou aprendendo: os cursos da faculdade 😂😂😂
 - 📫 Como me encontrar: afrodite.oliveira10@gmail.com
 - 😄 Pronouns: ela/dela ou ele/dele
